@@ -1,0 +1,10 @@
+git --version ==> version check karne k liye....
+
+git init ==> to initialize karne k liye ...
+
+git add . ==> to add karne k liye 
+
+git commit -m "message" ==>  commit karne k liye
+
+git log 
+git log --oneline ==> 
