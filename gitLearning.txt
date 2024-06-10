@@ -8,3 +8,5 @@ git commit -m "message" ==>  commit karne k liye
 
 git log 
 git log --oneline ==> 
+
+new command  
